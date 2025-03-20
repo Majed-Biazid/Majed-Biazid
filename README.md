@@ -93,7 +93,7 @@
   </a>
 </p>
 
-> **Note:** The language stats listed below reflect my public repositories and do not cover my full experience, including private repositories from companies I have worked with.
+> **Note:** The "Most Used Languages" stats shown below are based on my public repositories and do not cover my full experience, including private repositories from companies I have worked with.
 
 <p>
   <img align="left" src="https://github-readme-stats-ten-red-89.vercel.app/api/top-langs?username=majed-biazid&show_icons=true&locale=en&layout=compact" alt="majed-biazid-Languages-Stats" />
