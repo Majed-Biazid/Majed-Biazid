@@ -26,7 +26,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats-theta-one-41.vercel.app/api?username=Majed-Biazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Majed-Biazid&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Majed-Biazid&theme=radical)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats-theta-one-41.vercel.app/api/top-langs/?username=Majed-Biazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
